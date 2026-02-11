@@ -49,4 +49,4 @@ Once you've completed the basic exercise, you can:
 
 This exercise provides a solid foundation that introduces core concepts while creating something visually interesting. The skills you learn here will transfer to more complex projects like installations, VJ performances, or interactive exhibits.
 
-Would you like me to explain any particular aspect of Touch Designer in more detail?
+
