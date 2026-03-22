@@ -3,8 +3,9 @@
 TouchDesigner is a node-based visual programming language developed by
 Derivative for creating real-time interactive multimedia content, 3D art, and immersive installations. It allows users to build complex visuals, audio, and interactive systems by connecting operators (nodes) on a canvas, offering instant feedback without traditional text-based coding. <BR> In TouchDesigner, an
 Operator (OP) is the fundamental building block—or node—used to create networks that generate, process, and manipulate data. Operators are linked together to perform complex tasks, with data generally flowing from left to right.TouchDesigner utilizes seven main operator families (color-coded nodes) to process different types of data, with
-TOPs, CHOPs, SOPs, DATs, and COMPs being the most frequently used. They are organized by function: images (TOPs), numerical data (CHOPs), 3D geometry (SOPs/POPs), text/data (DATs), and structure/UI (COMPs).
-https://derivative.ca/product<br>https://learn.derivative.ca/<br>
+TOPs, CHOPs, SOPs, DATs, and COMPs being the most frequently used. They are organized by function: images (TOPs), numerical data (CHOPs), 3D geometry (SOPs/POPs), text/data (DATs), and structure/UI (COMPs).<br>
+https://derivative.ca/product<br>https://learn.derivative.ca/<br>https://www.youtube.com/@blankensmithing/playlists<br>
+https://www.youtube.com/watch?v=g20Qwg8gMBE&list=PLSqkC3f_BStyl5j6NqYwLOErW0ych_4k1<br>
 
 
 
