@@ -1,17 +1,19 @@
 # touchDesigner_Arduino_exercises
 
 TouchDesigner is a node-based visual programming language developed by
-Derivative for creating real-time interactive multimedia content, 3D art, and immersive installations. It allows users to build complex visuals, audio, and interactive systems by connecting operators (nodes) on a canvas, offering instant feedback without traditional text-based coding.  Here's how you can learn the basics and a starter exercise to build upon.
+Derivative for creating real-time interactive multimedia content, 3D art, and immersive installations. It allows users to build complex visuals, audio, and interactive systems by connecting operators (nodes) on a canvas, offering instant feedback without traditional text-based coding.  
+https://derivative.ca/product<br>https://learn.derivative.ca/<br>
+
+
+
+Here's how you can learn the basics and a starter exercise to build upon.
 
 ## Getting Started with Touch Designer
 
-1. **Download and Install**: Get Touch Designer from the official website (Derivative.ca). They offer a free non-commercial license.
-
-2. **Learn the Interface**: Familiarize yourself with the network editor, parameter windows, and operator types (TOPs, CHOPs, SOPs, etc.).
-
-3. **Follow Official Tutorials**: Derivative offers excellent beginner tutorials on their website and YouTube channel.
-
-4. **Join Communities**: The Touch Designer forum and Discord community are great resources for asking questions.
+1. ***Download and Install**: Get Touch Designer from the official website (Derivative.ca). They offer a free non-commercial license.
+2. ***Learn the Interface**: Familiarize yourself with the network editor, parameter windows, and operator types (TOPs, CHOPs, SOPs, etc.).
+3. ***Follow Official Tutorials**: Derivative offers excellent beginner tutorials on their website and YouTube channel.
+4. ***Join Communities**: The Touch Designer forum and Discord community are great resources for asking questions.
 
 ## Beginner Exercise: Interactive Audio-Reactive Visualizer
 
