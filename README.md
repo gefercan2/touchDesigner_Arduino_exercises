@@ -1,7 +1,7 @@
 # touchDesigner_Arduino_exercises
 
-
-Touch Designer is a powerful visual programming environment used for real-time interactive content, generative art, audiovisual performances, and installations. Here's how you can learn the basics and a starter exercise to build upon.
+TouchDesigner is a node-based visual programming language developed by
+Derivative for creating real-time interactive multimedia content, 3D art, and immersive installations. It allows users to build complex visuals, audio, and interactive systems by connecting operators (nodes) on a canvas, offering instant feedback without traditional text-based coding.  Here's how you can learn the basics and a starter exercise to build upon.
 
 ## Getting Started with Touch Designer
 
