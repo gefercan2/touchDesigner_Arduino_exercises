@@ -55,3 +55,8 @@ Once you've completed the basic exercise, you can:
 This exercise provides a solid foundation that introduces core concepts while creating something visually interesting. The skills you learn here will transfer to more complex projects like installations, VJ performances, or interactive exhibits.
 
 
+
+other
+https://reactivision.sourceforge.net/  <br>
+https://github.com/mkalten/reacTIVision <br>
+
