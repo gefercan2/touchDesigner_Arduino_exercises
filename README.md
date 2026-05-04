@@ -10,7 +10,6 @@ https://www.youtube.com/@blankensmithing/playlists <br>
 https://www.youtube.com/@TheInteractiveImmersiveHQ <br>
 https://www.youtube.com/watch?v=g20Qwg8gMBE&list=PLSqkC3f_BStyl5j6NqYwLOErW0ych_4k1 <br>
 https://github.com/torinmb/mediapipe-touchdesigner <br>
-https://github.com/gefercan2/touchDesigner_Arduino_exercises/edit/main/README.md <br>
 https://github.com/tommella90/touchdesigner-datavisualization-course-scatterplot <br>
 https://github.com/tommella90/Scatterplot-generator-Touchdesigner <br>
 
