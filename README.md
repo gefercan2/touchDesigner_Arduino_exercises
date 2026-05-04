@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=g20Qwg8gMBE&list=PLSqkC3f_BStyl5j6NqYwLOErW0ych_
 https://github.com/torinmb/mediapipe-touchdesigner <br>
 https://github.com/tommella90/touchdesigner-datavisualization-course-scatterplot <br>
 https://github.com/tommella90/Scatterplot-generator-Touchdesigner <br>
+https://gitlab.com/tommella90/touchdesigner-for-datavisualization-tutorials <br>
 
 
 
